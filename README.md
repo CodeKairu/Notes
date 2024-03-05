@@ -1,18 +1,11 @@
-# Quartz v4
+# **Obsidian Notes** 
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+The pursuit of mastery is an endless journey, but those who persevere etch their names in history
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## **Motivation**
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This repository is my digital companion in the pursuit of knowledge and skill development. Sharing these notes is a way to document my progress, offer insights that might resonate with others, and potentially inspire a similar dedication to learning.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## **Contents**
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Since these are primarily personal notes, expect diverse content. However, my dominant interests include:
