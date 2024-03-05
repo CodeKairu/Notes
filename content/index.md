@@ -1,5 +1,5 @@
 ---
-title: Welcome To Home Page
+title: Home Page
 ---
 
 Kewl
