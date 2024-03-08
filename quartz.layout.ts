@@ -29,7 +29,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Darkmode(),
   ],
   right: [
-    Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
 
