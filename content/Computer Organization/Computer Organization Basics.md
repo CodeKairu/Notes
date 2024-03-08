@@ -9,7 +9,6 @@
 - **Linker:** Combines object files from multiple sources into a single executable program.
 - **Loader:** Loads the executable program into memory for the computer to run.
 ### Translators
-
 | Type        | Converts                            | Example      | Notes                 |
 | ----------- | ----------------------------------- | ------------ | --------------------- |
 | Compiler    | High-Level Language to Machine Code | C++, Java    | Whole Program at Once |
